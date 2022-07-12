@@ -1,0 +1,22 @@
+{
+  "template": "https://github.com/aimakerspace/ml-project-cookiecutter-gcp",
+  "commit": "e39309a4da847df3fbe78679bffb5543c41bfa24",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Amazon Product Review Classification",
+      "description": "An e2e ML pipeline that aims to classify Amazon product reviews.",
+      "repo_name": "review-classification",
+      "src_package_name": "review_classifier",
+      "src_package_name_short": "review_clf",
+      "gcp_project_id": "ksteadydata-aut0",
+      "author_name": "AISG",
+      "open_source_license": "No license file",
+      "_copy_without_render": [
+        "aisg-context/polyaxon/polyaxonfiles"
+      ],
+      "_template": "https://github.com/aimakerspace/ml-project-cookiecutter-gcp"
+    }
+  },
+  "directory": null
+}

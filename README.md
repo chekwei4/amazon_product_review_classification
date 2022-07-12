@@ -25,7 +25,6 @@ and negative reviews from the customers over different Amazon products.
   - [Clean data](#clean-data)
   - [Raw data](#raw-data)
 - [References](#references)
-- [Credits](#credits)
 - [Future of Work](#future-of-work)
 
 
@@ -255,14 +254,6 @@ Raw data downloaded from source, and converting from `.json` to `.csv`
 
 [From Apple Silicon to Heroku Docker Registry Without Swearing by Beppe Catanese](https://medium.com/geekculture/from-apple-silicon-to-heroku-docker-registry-without-swearing-36a2f59b30a3)
 
-# Credits
-Special thanks to:
-
-- AI Singapore AI Platforms & Product Engineering
-
-- AIAP Mentors, G and CW
-
-- Peers D and A
 
 # Future of Work
 - Experiment with DBT for data transformation 

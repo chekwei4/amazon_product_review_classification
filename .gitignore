@@ -171,4 +171,16 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+aisg-context/*
+
+assets/*
+
+conf/*
+
+data/*
+
+docs/*
+
+models/*
+
 ####################
